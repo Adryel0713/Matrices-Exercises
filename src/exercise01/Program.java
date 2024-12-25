@@ -5,6 +5,12 @@ import java.util.Scanner;
 
 public class Program {
 
+	/*
+		Fazer um programa para ler um número inteiro N e uma matriz de
+		ordem N contendo números inteiros. Em seguida, mostrar a diagonal
+		principal e a quantidade de valores negativos da matriz.
+	 */
+	
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
 		Scanner s = new Scanner(System.in);
